@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cmbfbg.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CompotaBG0000" x="0" y="0" width="367" height="471" pivotX="-336.6" pivotY="278.65" frameX="0" frameY="-18" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0001" x="0" y="0" width="367" height="471" frameX="0" frameY="-18" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0002" x="367" y="0" width="363" height="461" frameX="-2" frameY="-29" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0003" x="367" y="0" width="363" height="461" frameX="-2" frameY="-29" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0004" x="0" y="471" width="361" height="475" frameX="-3" frameY="-15" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0005" x="0" y="471" width="361" height="475" frameX="-3" frameY="-15" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0006" x="361" y="471" width="361" height="489" frameX="-3" frameY="-1" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0007" x="361" y="471" width="361" height="489" frameX="-3" frameY="-1" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0008" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0009" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0010" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0011" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0012" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+	<SubTexture name="CompotaBG0013" x="0" y="960" width="361" height="490" frameX="-3" frameY="0" frameWidth="367" frameHeight="490"/>
+</TextureAtlas>

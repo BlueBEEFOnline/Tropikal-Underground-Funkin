@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BlueBf.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BlueGF0000" x="0" y="0" width="444" height="477" pivotX="-322.85" pivotY="257.55" frameX="0" frameY="-2" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0001" x="0" y="0" width="444" height="477" frameX="0" frameY="-2" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0002" x="444" y="0" width="418" height="475" frameX="-3" frameY="-4" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0003" x="444" y="0" width="418" height="475" frameX="-3" frameY="-4" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0004" x="0" y="477" width="412" height="475" frameX="-5" frameY="-4" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0005" x="0" y="477" width="412" height="475" frameX="-5" frameY="-4" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0006" x="412" y="477" width="420" height="479" frameX="-5" frameY="0" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0007" x="412" y="477" width="420" height="479" frameX="-5" frameY="0" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0008" x="0" y="956" width="427" height="477" frameX="-5" frameY="-2" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0009" x="0" y="956" width="427" height="477" frameX="-5" frameY="-2" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0010" x="0" y="956" width="427" height="477" frameX="-5" frameY="-2" frameWidth="444" frameHeight="479"/>
+	<SubTexture name="BlueGF0011" x="0" y="956" width="427" height="477" frameX="-5" frameY="-2" frameWidth="444" frameHeight="479"/>
+</TextureAtlas>

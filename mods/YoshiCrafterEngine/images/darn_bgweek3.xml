@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="darn_bgweek3.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="darnell_bg0000" x="0" y="0" width="313" height="399" pivotX="6" pivotY="-1.2" frameX="0" frameY="-9" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0001" x="0" y="0" width="313" height="399" frameX="0" frameY="-9" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0002" x="313" y="0" width="301" height="399" frameX="-6" frameY="-9" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0003" x="313" y="0" width="301" height="399" frameX="-6" frameY="-9" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0004" x="614" y="0" width="301" height="401" frameX="-6" frameY="-7" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0005" x="614" y="0" width="301" height="401" frameX="-6" frameY="-7" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0006" x="0" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0007" x="0" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0008" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0009" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0010" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0011" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0012" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+	<SubTexture name="darnell_bg0013" x="301" y="401" width="301" height="408" frameX="-6" frameY="0" frameWidth="313" frameHeight="408"/>
+</TextureAtlas>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rapping_sblu.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rapping_bf0000" x="0" y="0" width="368" height="447" pivotX="-12.1" pivotY="-36.45" frameX="-31" frameY="0" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0001" x="0" y="0" width="368" height="447" frameX="-31" frameY="0" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0002" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0003" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0004" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0005" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0006" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0007" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0008" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0009" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0010" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0011" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0012" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0013" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0014" x="368" y="0" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0015" x="0" y="447" width="379" height="364" frameX="-1" frameY="-85" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0016" x="0" y="447" width="379" height="364" frameX="-1" frameY="-85" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0017" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0018" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0019" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0020" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0021" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0022" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0023" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0024" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0025" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0026" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0027" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0028" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0029" x="379" y="447" width="376" height="369" frameX="0" frameY="-80" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0030" x="0" y="0" width="368" height="447" frameX="-31" frameY="0" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0031" x="0" y="0" width="368" height="447" frameX="-31" frameY="0" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0032" x="0" y="816" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0033" x="0" y="816" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+	<SubTexture name="rapping_bf0034" x="0" y="816" width="376" height="442" frameX="-25" frameY="-5" frameWidth="401" frameHeight="449"/>
+</TextureAtlas>
