@@ -1,0 +1,80 @@
+{
+	"arrowColors": [
+		"#292A28",
+		"#823026",
+		"#3D733A",
+		"#F8F7F7"
+	],
+	"camOffset": {
+		"x": 0,
+		"y": 210
+	},
+	"globalOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"healthbarColor": "#996600",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": 10,
+			"y": -263,
+			"anim": "Pico Idle Dance",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 81,
+			"y": -347,
+			"anim": "Pico Down Note",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 161,
+			"y": -270,
+			"anim": "Pico NOTE LEFT",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -26,
+			"y": -253,
+			"anim": "Pico Note Right",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 38,
+			"y": -256,
+			"anim": "pico Up note",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}
